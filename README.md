@@ -12,4 +12,4 @@ For Windows, run this command in the terminal:
 Further details can be found at https://julialang.org/downloads/
 
 You will also need some packages to run this notebook. These are present in an environment. Activate this by running 
-```julia --project=.```. This should open a Julia REPL in an environment with all the required packages installed. In the REPL, run ```notebook(dir = pwd())``` and select the notebook
+```julia --project=.```. This should open a Julia REPL in an environment with all the required packages installed. In the REPL, run ```using IJulia``` followed by ```notebook(dir = pwd())``` and select the notebook
