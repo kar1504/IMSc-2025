@@ -1,5 +1,6 @@
 # IMsc-2025
-This notebook contains all code nescessary to replicate the figures in the paper "Mpemba in Molecular Motors" by Karthik Cheruvary and Arnab Pal. To run this, you will need to have Julia installed.
+This notebook contains all code nescessary to replicate the figures in the paper "Mpemba effect in a chemomechanical model of the
+Kinesin molecular motor" by Karthik Cheruvary and Arnab Pal. To run this, you will need to have Julia installed.
 
 For macOS or Linux this can be done by running the following command in the terminal:
 
